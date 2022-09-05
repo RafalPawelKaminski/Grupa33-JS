@@ -1,23 +1,27 @@
 # Grupa33-JS
--------------------------------------------------------------------------------------------------------
+
 Zajęcia 1 - 06.09.2022
 -----------------------
-Wprowadzenie do JS
-==================
+## _Wprowadzenie do JS_
+
 Podstawy deklaracji oraz inicjalizacji zmiennych oraz określanie ich typów.
 
-Deklaracja zmiennej:
----
+## Deklaracja zmiennej:
+
+```js
 let "nazwaZmiennej" = "inicjalizacja zmiennej";
 
 var "nazwaZmiennej" = "inicjalizacja zmiennej";
+```
+## Deklaracja stałej:
 
-Deklaracja stałej:
-
+```js
 const "nazwaStałej" = "inicjalizacja stałej";
+```
+> `Stałych nie da się nadpisać !`
 
-Typy danych
-----
+## Typy danych
+
 Typy Proste (Primitywne):
 - number
 - string
