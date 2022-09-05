@@ -6,7 +6,7 @@ Wprowadzenie do JS
 ==================
 Podstawy deklaracji oraz inicjalizacji zmiennych oraz określanie ich typów.
 
-Deklaracja zmienne:
+Deklaracja zmiennej:
 ---
 let "nazwaZmiennej" = "inicjalizacja zmiennej";
 
