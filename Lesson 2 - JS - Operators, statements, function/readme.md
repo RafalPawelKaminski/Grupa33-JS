@@ -9,27 +9,27 @@ Wprowadzenie do podstaw JS podstawowych działań na kodzie oraz pierwsze funkcj
 ## Operatory:
 
 Artmetyczne:
-+ - Dodawanie
-* - Mnożenie
-/ - Dzielenie
-% - Modulo
-** - Potęgowanie
-++ - Inkrementacja
--- - Dekrementacja
+- Dodawanie - +
+- Mnożenie - * 
+- Dzielenie - /
+- Modulo - % 
+- Potęgowanie - **
+- Inkrementacja - ++
+- Dekrementacja - --
 
 Porównanie:
 
-== oraz ===
-!= oraz !==
-> oraz <
->= oraz <=
+- '== oraz ==='
+- '!= oraz !=='
+- '> oraz <'
+- '>= oraz <='
 
 Logiczne:
 
-&& - koniunkcja
-|| - alternatywa
-! - negacja
-^ - alternatywa rozłączna
+- && - koniunkcja
+- || - alternatywa
+- ! - negacja
+- ^ - alternatywa rozłączna
 
 ## Instrukcje warunkowe:
 
