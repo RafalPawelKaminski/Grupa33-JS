@@ -1,0 +1,17 @@
+.box-container {
+  display: flex;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  margin: 0 15px;
+}
+.box-orange {
+  background-color: orange;
+}
+.box-green {
+  background-color: green;
+}
+.box-red {
+  background-color: red;
+}
